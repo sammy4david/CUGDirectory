@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17b068"/><stop offset=".55" stop-color="#0b7a45"/><stop offset="1" stop-color="#033d24"/></linearGradient>
+<radialGradient id="gl" cx=".25" cy=".15" r=".9"><stop offset="0" stop-color="#fff" stop-opacity=".30"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe680"/><stop offset="1" stop-color="#ffb000"/></linearGradient>
+<linearGradient id="hw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#d4efe0"/></linearGradient>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="9" stdDeviation="9" flood-color="#00160b" flood-opacity=".45"/></filter></defs>
+<rect width="512" height="512" rx="112" fill="url(#bg)"/><rect width="512" height="512" rx="112" fill="url(#gl)"/>
+<g filter="url(#sh)"><path transform="translate(92 48) scale(11.6)" d="M6.6 10.8a15 15 0 006.6 6.6l2.2-2.2a1 1 0 011-.25 11 11 0 003.5.56 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.2.2 2.4.56 3.5a1 1 0 01-.25 1z" fill="url(#hw)"/><path d="M352.6 209.1 A62 62 0 0 0 304.9 161.4" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" opacity="1"/><path d="M393.7 200.4 A104 104 0 0 0 313.6 120.3" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" opacity="0.8"/><path d="M434.8 191.6 A146 146 0 0 0 322.4 79.2" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" opacity="0.55"/></g>
+<g filter="url(#sh)"><rect x="126" y="332" width="260" height="104" rx="52" fill="url(#gold)"/>
+<rect x="132" y="338" width="248" height="92" rx="46" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="3"/></g>
+<text x="256" y="386" text-anchor="middle" dominant-baseline="central" font-family="'DejaVu Sans',Arial,Helvetica,sans-serif" font-weight="800" font-size="72" letter-spacing="5" fill="#04432a">CUG</text></svg>
